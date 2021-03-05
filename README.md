@@ -1,6 +1,30 @@
 # Tic-tac-toe
 Adversarial tic tac toe implementation in cpp. 
 
+## Run locally
+
+Run Tic-tac-toe locally in seconds on Linux (Ubuntu and others) with:
+
+```
+git clone https://github.com/NamanZelawat/Tic-tac-toe.git
+```
+
+```
+cd Tic-tac-toe
+```
+
+```
+cmake .
+```
+
+```
+make
+```
+
+```
+./main
+```
+
 
 Main page --<br><br>
 ![main](https://user-images.githubusercontent.com/44704257/110107908-8486dd80-7dd1-11eb-8662-37a83ba32962.png)
